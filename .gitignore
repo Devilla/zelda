@@ -1,0 +1,10 @@
+.cabal-sandbox/
+/dist-newstyle/
+.stack-work/
+TAGS
+cabal.sandbox.config
+dist/
+tags
+*.swp
+*.swo
+stack.yaml.lock
